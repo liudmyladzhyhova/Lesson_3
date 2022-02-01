@@ -1,0 +1,42 @@
+h1 {
+	color: teal;
+}
+
+h2 {
+	color: violet;
+}
+
+.text {
+	color: royalblue;
+}
+
+#concentration {
+	color: seagreen;
+}
+
+p.paragraph {
+	color: olivedrab;
+}
+
+.text.new {
+	color: orangered;
+}
+.paragraph1,
+.paragraph2 {
+	color: purple;
+}
+[class*="-practice"] {
+	color: teal;
+}
+
+.overview > p {
+	color: sienna;
+}
+
+.meditation + p {
+	color: salmon;
+}
+
+.soul ~ p {
+	color: sandybrown;
+}
